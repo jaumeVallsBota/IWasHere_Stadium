@@ -1,0 +1,144 @@
+[
+  {
+    "name": "Camp Nou",
+    "city": "Barcelona",
+    "country": "España",
+    "latitude": 41.3809,
+    "longitude": 2.1228,
+    "capacity": 99354,
+    "year_opened": 1957,
+    "history": "El Camp Nou es el estadio del FC Barcelona y el más grande de Europa. Inaugurado en 1957, ha sido escenario de finales de Champions League y Copa del Mundo. Su nombre oficial es Spotify Camp Nou desde 2022.",
+    "current_team": "FC Barcelona",
+    "teams": [
+      { "name": "FC Barcelona", "country": "España", "years_at_stadium": "1957–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Santiago Bernabéu",
+    "city": "Madrid",
+    "country": "España",
+    "latitude": 40.4531,
+    "longitude": -3.6883,
+    "capacity": 81044,
+    "year_opened": 1947,
+    "history": "El estadio Santiago Bernabéu, inaugurado en 1947, es la sede del Real Madrid CF. Ha sido renovado varias veces, la más reciente en 2023, añadiendo una cubierta retráctil y pantallas LED envolventes.",
+    "current_team": "Real Madrid CF",
+    "teams": [
+      { "name": "Real Madrid CF", "country": "España", "years_at_stadium": "1947–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Wembley Stadium",
+    "city": "Londres",
+    "country": "Reino Unido",
+    "latitude": 51.5560,
+    "longitude": -0.2795,
+    "capacity": 90000,
+    "year_opened": 2007,
+    "history": "El nuevo Wembley se inauguró en 2007 sobre el solar del estadio original (1923). Es el estadio nacional de Inglaterra y sede de finales de la FA Cup y partidos de la selección inglesa.",
+    "current_team": "Selección de Inglaterra",
+    "teams": [
+      { "name": "Selección de Inglaterra", "country": "Reino Unido", "years_at_stadium": "2007–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Allianz Arena",
+    "city": "Múnich",
+    "country": "Alemania",
+    "latitude": 48.2188,
+    "longitude": 11.6247,
+    "capacity": 75024,
+    "year_opened": 2005,
+    "history": "La Allianz Arena abrió en 2005 y es conocida por su fachada de paneles ETFE que cambia de color. Fue sede de la Eurocopa 2024 y varios partidos de la Champions League.",
+    "current_team": "Bayern de Múnich",
+    "teams": [
+      { "name": "Bayern de Múnich", "country": "Alemania", "years_at_stadium": "2005–presente", "notes": null },
+      { "name": "TSV 1860 Múnich", "country": "Alemania", "years_at_stadium": "2005–2017", "notes": "Abandonó el estadio por problemas financieros." }
+    ]
+  },
+  {
+    "name": "San Siro",
+    "city": "Milán",
+    "country": "Italia",
+    "latitude": 45.4781,
+    "longitude": 9.1240,
+    "capacity": 75923,
+    "year_opened": 1926,
+    "history": "El Estadio Giuseppe Meazza, conocido popularmente como San Siro, es uno de los estadios más icónicos del mundo. Ha sido sede de dos Copas del Mundo (1934 y 1990) y de finales de Champions League.",
+    "current_team": "AC Milan / Inter de Milán",
+    "teams": [
+      { "name": "AC Milan", "country": "Italia", "years_at_stadium": "1926–presente", "notes": null },
+      { "name": "Inter de Milán", "country": "Italia", "years_at_stadium": "1947–presente", "notes": "Comparte el estadio con el AC Milan." }
+    ]
+  },
+  {
+    "name": "Signal Iduna Park",
+    "city": "Dortmund",
+    "country": "Alemania",
+    "latitude": 51.4926,
+    "longitude": 7.4519,
+    "capacity": 81365,
+    "year_opened": 1974,
+    "history": "El Signal Iduna Park, hogar del Borussia Dortmund, cuenta con la famosa 'Muro Amarillo' (Südtribüne), la mayor terraza de pie de Europa con capacidad para 25.000 aficionados en partidos de liga.",
+    "current_team": "Borussia Dortmund",
+    "teams": [
+      { "name": "Borussia Dortmund", "country": "Alemania", "years_at_stadium": "1974–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Old Trafford",
+    "city": "Mánchester",
+    "country": "Reino Unido",
+    "latitude": 53.4631,
+    "longitude": -2.2913,
+    "capacity": 74310,
+    "year_opened": 1910,
+    "history": "Old Trafford, conocido como el 'Teatro de los Sueños', es la sede del Manchester United desde 1910. Fue dañado en la Segunda Guerra Mundial y reconstruido en 1949.",
+    "current_team": "Manchester United",
+    "teams": [
+      { "name": "Manchester United", "country": "Reino Unido", "years_at_stadium": "1910–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio da Luz",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "latitude": 38.7522,
+    "longitude": -9.1845,
+    "capacity": 64642,
+    "year_opened": 2003,
+    "history": "El Estádio da Luz fue inaugurado en 2003 para la Eurocopa 2004. Es la sede del Sport Lisboa e Benfica y uno de los estadios más modernos de la Península Ibérica.",
+    "current_team": "SL Benfica",
+    "teams": [
+      { "name": "SL Benfica", "country": "Portugal", "years_at_stadium": "2003–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Parc des Princes",
+    "city": "París",
+    "country": "Francia",
+    "latitude": 48.8414,
+    "longitude": 2.2530,
+    "capacity": 47929,
+    "year_opened": 1972,
+    "history": "El Parc des Princes es la sede del Paris Saint-Germain desde 1974. Inaugurado en 1972, también acoge partidos de la selección francesa de rugby.",
+    "current_team": "Paris Saint-Germain",
+    "teams": [
+      { "name": "Paris Saint-Germain", "country": "Francia", "years_at_stadium": "1974–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Johan Cruyff Arena",
+    "city": "Ámsterdam",
+    "country": "Países Bajos",
+    "latitude": 52.3141,
+    "longitude": 4.9417,
+    "capacity": 55865,
+    "year_opened": 1996,
+    "history": "La Johan Cruyff Arena, inaugurada en 1996, es el primer estadio europeo con techo retráctil. Es la sede del AFC Ajax y recibió ese nombre en honor a Johan Cruyff en 2018.",
+    "current_team": "AFC Ajax",
+    "teams": [
+      { "name": "AFC Ajax", "country": "Países Bajos", "years_at_stadium": "1996–presente", "notes": null }
+    ]
+  }
+]
