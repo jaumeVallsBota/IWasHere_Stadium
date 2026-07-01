@@ -36,7 +36,17 @@ class StadiumRepository:
         if params.country:
             query = query.where(Stadium.country.ilike(f"%{params.country}%"))
         if params.team:
-            query = query.where(Stadium.current_team.ilike(f"%{params.team}%"))
+            team_subquery = (
+                select(Team.id)
+                .where(Team.stadium_id == Stadium.id, Team.name.ilike(f"%{params.team}%"))
+                .exists()
+            )
+            query = query.where(
+                or_(
+                    Stadium.current_team.ilike(f"%{params.team}%"),
+                    team_subquery,
+                )
+            )
         if params.capacity_min is not None:
             query = query.where(Stadium.capacity >= params.capacity_min)
         if params.capacity_max is not None:

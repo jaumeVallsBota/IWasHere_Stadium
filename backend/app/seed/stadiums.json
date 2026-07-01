@@ -7,7 +7,7 @@
     "longitude": 2.1228,
     "capacity": 99354,
     "year_opened": 1957,
-    "history": "El Camp Nou es el estadio del FC Barcelona y el más grande de Europa. Inaugurado en 1957, ha sido escenario de finales de Champions League y Copa del Mundo. Su nombre oficial es Spotify Camp Nou desde 2022.",
+    "history": "El Camp Nou es el estadio del FC Barcelona y el más grande de Europa. Inaugurado en 1957, ha sido escenario de finales de Champions League y Copa del Mundo. Actualmente en renovación.",
     "current_team": "FC Barcelona",
     "teams": [
       { "name": "FC Barcelona", "country": "España", "years_at_stadium": "1957–presente", "notes": null }
@@ -21,7 +21,7 @@
     "longitude": -3.6883,
     "capacity": 81044,
     "year_opened": 1947,
-    "history": "El estadio Santiago Bernabéu, inaugurado en 1947, es la sede del Real Madrid CF. Ha sido renovado varias veces, la más reciente en 2023, añadiendo una cubierta retráctil y pantallas LED envolventes.",
+    "history": "Sede del Real Madrid desde 1947, renovado en 2023 con cubierta retráctil y pantallas LED envolventes.",
     "current_team": "Real Madrid CF",
     "teams": [
       { "name": "Real Madrid CF", "country": "España", "years_at_stadium": "1947–presente", "notes": null }
@@ -35,7 +35,7 @@
     "longitude": -0.2795,
     "capacity": 90000,
     "year_opened": 2007,
-    "history": "El nuevo Wembley se inauguró en 2007 sobre el solar del estadio original (1923). Es el estadio nacional de Inglaterra y sede de finales de la FA Cup y partidos de la selección inglesa.",
+    "history": "El estadio nacional de Inglaterra, inaugurado en 2007. Sede de finales de la FA Cup y partidos de la selección inglesa.",
     "current_team": "Selección de Inglaterra",
     "teams": [
       { "name": "Selección de Inglaterra", "country": "Reino Unido", "years_at_stadium": "2007–presente", "notes": null }
@@ -49,7 +49,7 @@
     "longitude": 11.6247,
     "capacity": 75024,
     "year_opened": 2005,
-    "history": "La Allianz Arena abrió en 2005 y es conocida por su fachada de paneles ETFE que cambia de color. Fue sede de la Eurocopa 2024 y varios partidos de la Champions League.",
+    "history": "Conocida por su fachada de paneles ETFE iluminados. Sede de la Eurocopa 2024.",
     "current_team": "Bayern de Múnich",
     "teams": [
       { "name": "Bayern de Múnich", "country": "Alemania", "years_at_stadium": "2005–presente", "notes": null },
@@ -64,7 +64,7 @@
     "longitude": 9.1240,
     "capacity": 75923,
     "year_opened": 1926,
-    "history": "El Estadio Giuseppe Meazza, conocido popularmente como San Siro, es uno de los estadios más icónicos del mundo. Ha sido sede de dos Copas del Mundo (1934 y 1990) y de finales de Champions League.",
+    "history": "Estadio Giuseppe Meazza, uno de los más icónicos del mundo. Sede de dos Copas del Mundo (1934 y 1990).",
     "current_team": "AC Milan / Inter de Milán",
     "teams": [
       { "name": "AC Milan", "country": "Italia", "years_at_stadium": "1926–presente", "notes": null },
@@ -79,7 +79,7 @@
     "longitude": 7.4519,
     "capacity": 81365,
     "year_opened": 1974,
-    "history": "El Signal Iduna Park, hogar del Borussia Dortmund, cuenta con la famosa 'Muro Amarillo' (Südtribüne), la mayor terraza de pie de Europa con capacidad para 25.000 aficionados en partidos de liga.",
+    "history": "Hogar del Borussia Dortmund, conocido por el 'Muro Amarillo', la mayor terraza de pie de Europa.",
     "current_team": "Borussia Dortmund",
     "teams": [
       { "name": "Borussia Dortmund", "country": "Alemania", "years_at_stadium": "1974–presente", "notes": null }
@@ -93,7 +93,7 @@
     "longitude": -2.2913,
     "capacity": 74310,
     "year_opened": 1910,
-    "history": "Old Trafford, conocido como el 'Teatro de los Sueños', es la sede del Manchester United desde 1910. Fue dañado en la Segunda Guerra Mundial y reconstruido en 1949.",
+    "history": "El 'Teatro de los Sueños', sede del Manchester United desde 1910.",
     "current_team": "Manchester United",
     "teams": [
       { "name": "Manchester United", "country": "Reino Unido", "years_at_stadium": "1910–presente", "notes": null }
@@ -107,7 +107,7 @@
     "longitude": -9.1845,
     "capacity": 64642,
     "year_opened": 2003,
-    "history": "El Estádio da Luz fue inaugurado en 2003 para la Eurocopa 2004. Es la sede del Sport Lisboa e Benfica y uno de los estadios más modernos de la Península Ibérica.",
+    "history": "Inaugurado en 2003 para la Eurocopa 2004. Sede del SL Benfica.",
     "current_team": "SL Benfica",
     "teams": [
       { "name": "SL Benfica", "country": "Portugal", "years_at_stadium": "2003–presente", "notes": null }
@@ -121,7 +121,7 @@
     "longitude": 2.2530,
     "capacity": 47929,
     "year_opened": 1972,
-    "history": "El Parc des Princes es la sede del Paris Saint-Germain desde 1974. Inaugurado en 1972, también acoge partidos de la selección francesa de rugby.",
+    "history": "Sede del PSG desde 1974. Uno de los estadios más emblemáticos de Francia.",
     "current_team": "Paris Saint-Germain",
     "teams": [
       { "name": "Paris Saint-Germain", "country": "Francia", "years_at_stadium": "1974–presente", "notes": null }
@@ -135,10 +135,1455 @@
     "longitude": 4.9417,
     "capacity": 55865,
     "year_opened": 1996,
-    "history": "La Johan Cruyff Arena, inaugurada en 1996, es el primer estadio europeo con techo retráctil. Es la sede del AFC Ajax y recibió ese nombre en honor a Johan Cruyff en 2018.",
+    "history": "Primer estadio europeo con techo retráctil. Renombrado en honor a Johan Cruyff en 2018.",
     "current_team": "AFC Ajax",
     "teams": [
       { "name": "AFC Ajax", "country": "Países Bajos", "years_at_stadium": "1996–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Emirates Stadium",
+    "city": "Londres",
+    "country": "Reino Unido",
+    "latitude": 51.5549,
+    "longitude": -0.1083,
+    "capacity": 60704,
+    "year_opened": 2006,
+    "history": "Inaugurado en 2006, sustituyó al histórico Highbury como sede del Arsenal.",
+    "current_team": "Arsenal FC",
+    "teams": [
+      { "name": "Arsenal FC", "country": "Reino Unido", "years_at_stadium": "2006–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Villa Park",
+    "city": "Birmingham",
+    "country": "Reino Unido",
+    "latitude": 52.5092,
+    "longitude": -1.8847,
+    "capacity": 42785,
+    "year_opened": 1897,
+    "history": "Uno de los estadios más históricos de Inglaterra, sede del Aston Villa desde 1897.",
+    "current_team": "Aston Villa",
+    "teams": [
+      { "name": "Aston Villa", "country": "Reino Unido", "years_at_stadium": "1897–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Vitality Stadium",
+    "city": "Bournemouth",
+    "country": "Reino Unido",
+    "latitude": 50.7352,
+    "longitude": -1.8383,
+    "capacity": 11364,
+    "year_opened": 1910,
+    "history": "El estadio más pequeño de la Premier League. Sede del AFC Bournemouth.",
+    "current_team": "AFC Bournemouth",
+    "teams": [
+      { "name": "AFC Bournemouth", "country": "Reino Unido", "years_at_stadium": "1910–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Gtech Community Stadium",
+    "city": "Londres",
+    "country": "Reino Unido",
+    "latitude": 51.4914,
+    "longitude": -0.2887,
+    "capacity": 17250,
+    "year_opened": 2020,
+    "history": "Inaugurado en 2020, es el estadio más nuevo de la Premier League. Sede del Brentford FC.",
+    "current_team": "Brentford FC",
+    "teams": [
+      { "name": "Brentford FC", "country": "Reino Unido", "years_at_stadium": "2020–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "AMEX Stadium",
+    "city": "Brighton",
+    "country": "Reino Unido",
+    "latitude": 50.8618,
+    "longitude": -0.0837,
+    "capacity": 31876,
+    "year_opened": 2011,
+    "history": "Sede del Brighton & Hove Albion desde 2011, también conocido como Falmer Stadium.",
+    "current_team": "Brighton & Hove Albion",
+    "teams": [
+      { "name": "Brighton & Hove Albion", "country": "Reino Unido", "years_at_stadium": "2011–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stamford Bridge",
+    "city": "Londres",
+    "country": "Reino Unido",
+    "latitude": 51.4816,
+    "longitude": -0.1910,
+    "capacity": 40834,
+    "year_opened": 1877,
+    "history": "Sede del Chelsea FC desde 1905. Uno de los estadios más históricos de Londres.",
+    "current_team": "Chelsea FC",
+    "teams": [
+      { "name": "Chelsea FC", "country": "Reino Unido", "years_at_stadium": "1905–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Selhurst Park",
+    "city": "Londres",
+    "country": "Reino Unido",
+    "latitude": 51.3983,
+    "longitude": -0.0855,
+    "capacity": 25486,
+    "year_opened": 1924,
+    "history": "Sede del Crystal Palace. Conocido por su ambiente intimidante y animación local.",
+    "current_team": "Crystal Palace",
+    "teams": [
+      { "name": "Crystal Palace", "country": "Reino Unido", "years_at_stadium": "1924–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Goodison Park",
+    "city": "Liverpool",
+    "country": "Reino Unido",
+    "latitude": 53.4388,
+    "longitude": -2.9661,
+    "capacity": 39414,
+    "year_opened": 1892,
+    "history": "Uno de los estadios más veteranos de Inglaterra. Sede histórica del Everton FC.",
+    "current_team": "Everton FC",
+    "teams": [
+      { "name": "Everton FC", "country": "Reino Unido", "years_at_stadium": "1892–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Craven Cottage",
+    "city": "Londres",
+    "country": "Reino Unido",
+    "latitude": 51.4749,
+    "longitude": -0.2217,
+    "capacity": 25700,
+    "year_opened": 1896,
+    "history": "Sede del Fulham FC con vistas al Támesis. Uno de los estadios con más encanto de la Premier League.",
+    "current_team": "Fulham FC",
+    "teams": [
+      { "name": "Fulham FC", "country": "Reino Unido", "years_at_stadium": "1896–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Portman Road",
+    "city": "Ipswich",
+    "country": "Reino Unido",
+    "latitude": 52.0548,
+    "longitude": 1.1446,
+    "capacity": 30311,
+    "year_opened": 1884,
+    "history": "Sede del Ipswich Town desde 1884. Uno de los estadios con más historia de la liga inglesa.",
+    "current_team": "Ipswich Town",
+    "teams": [
+      { "name": "Ipswich Town", "country": "Reino Unido", "years_at_stadium": "1884–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "King Power Stadium",
+    "city": "Leicester",
+    "country": "Reino Unido",
+    "latitude": 52.6204,
+    "longitude": -1.1423,
+    "capacity": 32312,
+    "year_opened": 2002,
+    "history": "Sede del Leicester City desde 2002. Escenario del histórico título de liga en 2016.",
+    "current_team": "Leicester City",
+    "teams": [
+      { "name": "Leicester City", "country": "Reino Unido", "years_at_stadium": "2002–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Anfield",
+    "city": "Liverpool",
+    "country": "Reino Unido",
+    "latitude": 53.4308,
+    "longitude": -2.9608,
+    "capacity": 61276,
+    "year_opened": 1884,
+    "history": "Sede del Liverpool FC desde 1884. Famoso por el himno 'You'll Never Walk Alone' y la tribuna de The Kop.",
+    "current_team": "Liverpool FC",
+    "teams": [
+      { "name": "Liverpool FC", "country": "Reino Unido", "years_at_stadium": "1892–presente", "notes": null },
+      { "name": "Everton FC", "country": "Reino Unido", "years_at_stadium": "1884–1892", "notes": "El club fundador del estadio." }
+    ]
+  },
+  {
+    "name": "Etihad Stadium",
+    "city": "Mánchester",
+    "country": "Reino Unido",
+    "latitude": 53.4831,
+    "longitude": -2.2004,
+    "capacity": 55017,
+    "year_opened": 2003,
+    "history": "Sede del Manchester City desde 2003. Construido originalmente para los Juegos de la Mancomunidad de 2002.",
+    "current_team": "Manchester City",
+    "teams": [
+      { "name": "Manchester City", "country": "Reino Unido", "years_at_stadium": "2003–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "St. James' Park",
+    "city": "Newcastle",
+    "country": "Reino Unido",
+    "latitude": 54.9756,
+    "longitude": -1.6217,
+    "capacity": 52305,
+    "year_opened": 1880,
+    "history": "Sede del Newcastle United, enclavado en el corazón de la ciudad. Uno de los ambientes más impresionantes de Inglaterra.",
+    "current_team": "Newcastle United",
+    "teams": [
+      { "name": "Newcastle United", "country": "Reino Unido", "years_at_stadium": "1892–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "City Ground",
+    "city": "Nottingham",
+    "country": "Reino Unido",
+    "latitude": 52.9400,
+    "longitude": -1.1325,
+    "capacity": 30445,
+    "year_opened": 1898,
+    "history": "Sede del Nottingham Forest a orillas del Trent. Escenario de dos Champions Leagues consecutivas (1979 y 1980).",
+    "current_team": "Nottingham Forest",
+    "teams": [
+      { "name": "Nottingham Forest", "country": "Reino Unido", "years_at_stadium": "1898–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "St Mary's Stadium",
+    "city": "Southampton",
+    "country": "Reino Unido",
+    "latitude": 50.9058,
+    "longitude": -1.3914,
+    "capacity": 32689,
+    "year_opened": 2001,
+    "history": "Sede del Southampton FC desde 2001, cuando dejó The Dell.",
+    "current_team": "Southampton FC",
+    "teams": [
+      { "name": "Southampton FC", "country": "Reino Unido", "years_at_stadium": "2001–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Tottenham Hotspur Stadium",
+    "city": "Londres",
+    "country": "Reino Unido",
+    "latitude": 51.6042,
+    "longitude": -0.0665,
+    "capacity": 62850,
+    "year_opened": 2019,
+    "history": "Inaugurado en 2019, con el primer campo de hierba sintética retráctil del mundo para eventos de fútbol americano.",
+    "current_team": "Tottenham Hotspur",
+    "teams": [
+      { "name": "Tottenham Hotspur", "country": "Reino Unido", "years_at_stadium": "2019–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "London Stadium",
+    "city": "Londres",
+    "country": "Reino Unido",
+    "latitude": 51.5386,
+    "longitude": -0.0164,
+    "capacity": 62500,
+    "year_opened": 2012,
+    "history": "Construido para los JJOO de Londres 2012, adaptado para el fútbol y sede del West Ham United desde 2016.",
+    "current_team": "West Ham United",
+    "teams": [
+      { "name": "West Ham United", "country": "Reino Unido", "years_at_stadium": "2016–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Molineux Stadium",
+    "city": "Wolverhampton",
+    "country": "Reino Unido",
+    "latitude": 52.5904,
+    "longitude": -2.1303,
+    "capacity": 32050,
+    "year_opened": 1889,
+    "history": "Sede del Wolverhampton Wanderers desde 1889. Uno de los estadios más antiguos de la liga inglesa.",
+    "current_team": "Wolverhampton Wanderers",
+    "teams": [
+      { "name": "Wolverhampton Wanderers", "country": "Reino Unido", "years_at_stadium": "1889–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Cívitas Metropolitano",
+    "city": "Madrid",
+    "country": "España",
+    "latitude": 40.4361,
+    "longitude": -3.5994,
+    "capacity": 68456,
+    "year_opened": 2017,
+    "history": "Inaugurado en 2017, sustituyó al Vicente Calderón como sede del Atlético de Madrid.",
+    "current_team": "Club Atlético de Madrid",
+    "teams": [
+      { "name": "Club Atlético de Madrid", "country": "España", "years_at_stadium": "2017–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio Ramón Sánchez-Pizjuán",
+    "city": "Sevilla",
+    "country": "España",
+    "latitude": 37.3838,
+    "longitude": -5.9706,
+    "capacity": 43883,
+    "year_opened": 1958,
+    "history": "Sede del Sevilla FC desde 1958. Ha acogido finales de la Copa de Europa y de la UEFA.",
+    "current_team": "Sevilla FC",
+    "teams": [
+      { "name": "Sevilla FC", "country": "España", "years_at_stadium": "1958–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio de Mestalla",
+    "city": "Valencia",
+    "country": "España",
+    "latitude": 39.4747,
+    "longitude": -0.3582,
+    "capacity": 49430,
+    "year_opened": 1923,
+    "history": "Sede del Valencia CF desde 1923. Uno de los estadios más antiguos y reconocibles de España.",
+    "current_team": "Valencia CF",
+    "teams": [
+      { "name": "Valencia CF", "country": "España", "years_at_stadium": "1923–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio Benito Villamarín",
+    "city": "Sevilla",
+    "country": "España",
+    "latitude": 37.3566,
+    "longitude": -5.9816,
+    "capacity": 60721,
+    "year_opened": 1929,
+    "history": "Sede del Real Betis Balompié. Renovado ampliamente en 2018 con nueva cubierta.",
+    "current_team": "Real Betis Balompié",
+    "teams": [
+      { "name": "Real Betis Balompié", "country": "España", "years_at_stadium": "1929–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio San Mamés",
+    "city": "Bilbao",
+    "country": "España",
+    "latitude": 43.2641,
+    "longitude": -2.9494,
+    "capacity": 53289,
+    "year_opened": 2013,
+    "history": "La 'Catedral' del fútbol vasco. El nuevo San Mamés abrió en 2013 como sede de la Eurocopa 2020.",
+    "current_team": "Athletic Club",
+    "teams": [
+      { "name": "Athletic Club", "country": "España", "years_at_stadium": "2013–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Reale Arena",
+    "city": "San Sebastián",
+    "country": "España",
+    "latitude": 43.3016,
+    "longitude": -1.9731,
+    "capacity": 39500,
+    "year_opened": 1993,
+    "history": "Sede de la Real Sociedad. Anteriormente conocido como Estadio de Anoeta.",
+    "current_team": "Real Sociedad",
+    "teams": [
+      { "name": "Real Sociedad", "country": "España", "years_at_stadium": "1993–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio de la Cerámica",
+    "city": "Villarreal",
+    "country": "España",
+    "latitude": 39.9441,
+    "longitude": -0.1034,
+    "capacity": 23500,
+    "year_opened": 1923,
+    "history": "El estadio más pequeño de La Liga de clubes regulares. Conocido por su nombre coloquial 'El Madrigal'.",
+    "current_team": "Villarreal CF",
+    "teams": [
+      { "name": "Villarreal CF", "country": "España", "years_at_stadium": "1923–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio El Sadar",
+    "city": "Pamplona",
+    "country": "España",
+    "latitude": 42.7967,
+    "longitude": -1.6367,
+    "capacity": 23576,
+    "year_opened": 1967,
+    "history": "Sede de CA Osasuna, conocido por su ambiente apasionado durante los partidos.",
+    "current_team": "CA Osasuna",
+    "teams": [
+      { "name": "CA Osasuna", "country": "España", "years_at_stadium": "1967–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio Gran Canaria",
+    "city": "Las Palmas",
+    "country": "España",
+    "latitude": 28.0997,
+    "longitude": -15.4536,
+    "capacity": 32400,
+    "year_opened": 2003,
+    "history": "Sede de la UD Las Palmas, inaugurado en 2003 en la isla de Gran Canaria.",
+    "current_team": "UD Las Palmas",
+    "teams": [
+      { "name": "UD Las Palmas", "country": "España", "years_at_stadium": "2003–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Coliseum Alfonso Pérez",
+    "city": "Getafe",
+    "country": "España",
+    "latitude": 40.3256,
+    "longitude": -3.7169,
+    "capacity": 17800,
+    "year_opened": 1998,
+    "history": "Sede del Getafe CF, a las afueras del sur de Madrid.",
+    "current_team": "Getafe CF",
+    "teams": [
+      { "name": "Getafe CF", "country": "España", "years_at_stadium": "1998–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio Municipal de Montilivi",
+    "city": "Girona",
+    "country": "España",
+    "latitude": 41.9735,
+    "longitude": 2.8244,
+    "capacity": 13450,
+    "year_opened": 1970,
+    "history": "Sede del Girona FC. Uno de los estadios más pequeños de La Liga.",
+    "current_team": "Girona FC",
+    "teams": [
+      { "name": "Girona FC", "country": "España", "years_at_stadium": "1970–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio de Son Moix",
+    "city": "Palma",
+    "country": "España",
+    "latitude": 39.5896,
+    "longitude": 2.6477,
+    "capacity": 23142,
+    "year_opened": 1999,
+    "history": "Sede del RCD Mallorca en la isla de Mallorca.",
+    "current_team": "RCD Mallorca",
+    "teams": [
+      { "name": "RCD Mallorca", "country": "España", "years_at_stadium": "1999–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio Abanca-Balaídos",
+    "city": "Vigo",
+    "country": "España",
+    "latitude": 42.2123,
+    "longitude": -8.7413,
+    "capacity": 29000,
+    "year_opened": 1928,
+    "history": "Sede del RC Celta de Vigo, inaugurado en 1928 a orillas de la ría de Vigo.",
+    "current_team": "RC Celta de Vigo",
+    "teams": [
+      { "name": "RC Celta de Vigo", "country": "España", "years_at_stadium": "1928–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio de Vallecas",
+    "city": "Madrid",
+    "country": "España",
+    "latitude": 40.3923,
+    "longitude": -3.6603,
+    "capacity": 14708,
+    "year_opened": 1976,
+    "history": "Sede del Rayo Vallecano. Conocido por su ambiente obrero y pasional.",
+    "current_team": "Rayo Vallecano",
+    "teams": [
+      { "name": "Rayo Vallecano", "country": "España", "years_at_stadium": "1976–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "RCDE Stadium",
+    "city": "Cornellà de Llobregat",
+    "country": "España",
+    "latitude": 41.3455,
+    "longitude": 2.0751,
+    "capacity": 40000,
+    "year_opened": 2009,
+    "history": "Sede del RCD Espanyol de Barcelona, inaugurado en 2009 en Cornellà.",
+    "current_team": "RCD Espanyol",
+    "teams": [
+      { "name": "RCD Espanyol", "country": "España", "years_at_stadium": "2009–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio de Mendizorroza",
+    "city": "Vitoria-Gasteiz",
+    "country": "España",
+    "latitude": 42.8476,
+    "longitude": -2.6962,
+    "capacity": 19840,
+    "year_opened": 1924,
+    "history": "Sede del Deportivo Alavés desde 1924 en la capital del País Vasco.",
+    "current_team": "Deportivo Alavés",
+    "teams": [
+      { "name": "Deportivo Alavés", "country": "España", "years_at_stadium": "1924–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio Municipal de Butarque",
+    "city": "Leganés",
+    "country": "España",
+    "latitude": 40.3319,
+    "longitude": -3.7641,
+    "capacity": 11454,
+    "year_opened": 1928,
+    "history": "Sede del CD Leganés, uno de los estadios más modestos de La Liga.",
+    "current_team": "CD Leganés",
+    "teams": [
+      { "name": "CD Leganés", "country": "España", "years_at_stadium": "1928–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio José Zorrilla",
+    "city": "Valladolid",
+    "country": "España",
+    "latitude": 41.6472,
+    "longitude": -4.7472,
+    "capacity": 26512,
+    "year_opened": 1982,
+    "history": "Sede del Real Valladolid CF, inaugurado en 1982.",
+    "current_team": "Real Valladolid CF",
+    "teams": [
+      { "name": "Real Valladolid CF", "country": "España", "years_at_stadium": "1982–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Allianz Stadium",
+    "city": "Turín",
+    "country": "Italia",
+    "latitude": 45.1096,
+    "longitude": 7.6412,
+    "capacity": 41507,
+    "year_opened": 2011,
+    "history": "El primer estadio de propiedad de un club de fútbol en Italia. Sede de la Juventus desde 2011.",
+    "current_team": "Juventus FC",
+    "teams": [
+      { "name": "Juventus FC", "country": "Italia", "years_at_stadium": "2011–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio Diego Armando Maradona",
+    "city": "Nápoles",
+    "country": "Italia",
+    "latitude": 40.8278,
+    "longitude": 14.1930,
+    "capacity": 54726,
+    "year_opened": 1959,
+    "history": "Renombrado en honor a Diego Maradona en 2020. Sede del SSC Napoli y escenario de los títulos de liga de Maradona.",
+    "current_team": "SSC Napoli",
+    "teams": [
+      { "name": "SSC Napoli", "country": "Italia", "years_at_stadium": "1959–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio Olímpico de Roma",
+    "city": "Roma",
+    "country": "Italia",
+    "latitude": 41.9340,
+    "longitude": 12.4547,
+    "capacity": 70634,
+    "year_opened": 1937,
+    "history": "Construido para los JJOO de 1960, es el estadio más grande de Italia y sede compartida de Roma y Lazio.",
+    "current_team": "AS Roma / SS Lazio",
+    "teams": [
+      { "name": "AS Roma", "country": "Italia", "years_at_stadium": "1953–presente", "notes": null },
+      { "name": "SS Lazio", "country": "Italia", "years_at_stadium": "1953–presente", "notes": "Comparte el estadio con la AS Roma." }
+    ]
+  },
+  {
+    "name": "Estadio Artemio Franchi",
+    "city": "Florencia",
+    "country": "Italia",
+    "latitude": 43.7800,
+    "longitude": 11.2817,
+    "capacity": 43147,
+    "year_opened": 1931,
+    "history": "Joya arquitectónica de Pier Luigi Nervi, sede de la ACF Fiorentina. Declarado monumento nacional.",
+    "current_team": "ACF Fiorentina",
+    "teams": [
+      { "name": "ACF Fiorentina", "country": "Italia", "years_at_stadium": "1931–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Gewiss Stadium",
+    "city": "Bérgamo",
+    "country": "Italia",
+    "latitude": 45.7082,
+    "longitude": 9.6850,
+    "capacity": 21747,
+    "year_opened": 1928,
+    "history": "Sede del Atalanta BC, que ha vivido su era dorada de Champions League en este estadio.",
+    "current_team": "Atalanta BC",
+    "teams": [
+      { "name": "Atalanta BC", "country": "Italia", "years_at_stadium": "1928–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio Olímpico Grande Torino",
+    "city": "Turín",
+    "country": "Italia",
+    "latitude": 45.0408,
+    "longitude": 7.6497,
+    "capacity": 27994,
+    "year_opened": 1926,
+    "history": "Renombrado en honor al Grande Torino. Sede del Torino FC.",
+    "current_team": "Torino FC",
+    "teams": [
+      { "name": "Torino FC", "country": "Italia", "years_at_stadium": "1926–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio Renato Dall'Ara",
+    "city": "Bolonia",
+    "country": "Italia",
+    "latitude": 44.4929,
+    "longitude": 11.3094,
+    "capacity": 38279,
+    "year_opened": 1927,
+    "history": "Sede del Bologna FC 1909. Albergó partidos de los JJOO de 1960 y la Copa del Mundo de 1990.",
+    "current_team": "Bologna FC 1909",
+    "teams": [
+      { "name": "Bologna FC 1909", "country": "Italia", "years_at_stadium": "1927–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Bluenergy Stadium",
+    "city": "Udine",
+    "country": "Italia",
+    "latitude": 46.0831,
+    "longitude": 13.2063,
+    "capacity": 25144,
+    "year_opened": 1976,
+    "history": "Sede del Udinese Calcio, anteriormente conocido como Estadio Friuli.",
+    "current_team": "Udinese Calcio",
+    "teams": [
+      { "name": "Udinese Calcio", "country": "Italia", "years_at_stadium": "1976–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio Luigi Ferraris",
+    "city": "Génova",
+    "country": "Italia",
+    "latitude": 44.4161,
+    "longitude": 8.9513,
+    "capacity": 36536,
+    "year_opened": 1911,
+    "history": "Uno de los estadios más antiguos de Europa. Compartido por Genoa CFC y UC Sampdoria.",
+    "current_team": "Genoa CFC / UC Sampdoria",
+    "teams": [
+      { "name": "Genoa CFC", "country": "Italia", "years_at_stadium": "1911–presente", "notes": null },
+      { "name": "UC Sampdoria", "country": "Italia", "years_at_stadium": "1947–presente", "notes": "Comparte el estadio con el Genoa CFC." }
+    ]
+  },
+  {
+    "name": "Unipol Domus",
+    "city": "Cagliari",
+    "country": "Italia",
+    "latitude": 39.2041,
+    "longitude": 9.1406,
+    "capacity": 16416,
+    "year_opened": 1970,
+    "history": "Sede del Cagliari Calcio en la isla de Cerdeña.",
+    "current_team": "Cagliari Calcio",
+    "teams": [
+      { "name": "Cagliari Calcio", "country": "Italia", "years_at_stadium": "1970–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stadio Carlo Castellani",
+    "city": "Empoli",
+    "country": "Italia",
+    "latitude": 43.7253,
+    "longitude": 10.9658,
+    "capacity": 16284,
+    "year_opened": 1965,
+    "history": "Sede del Empoli FC, renombrado en honor al excapitán Carlo Castellani en 1995.",
+    "current_team": "Empoli FC",
+    "teams": [
+      { "name": "Empoli FC", "country": "Italia", "years_at_stadium": "1965–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio Marcantonio Bentegodi",
+    "city": "Verona",
+    "country": "Italia",
+    "latitude": 45.4356,
+    "longitude": 10.9736,
+    "capacity": 39211,
+    "year_opened": 1963,
+    "history": "Compartido por Hellas Verona y Chievo Verona. Sede mundialista en 1990.",
+    "current_team": "Hellas Verona FC",
+    "teams": [
+      { "name": "Hellas Verona FC", "country": "Italia", "years_at_stadium": "1963–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stadio Brianteo",
+    "city": "Monza",
+    "country": "Italia",
+    "latitude": 45.6177,
+    "longitude": 9.2755,
+    "capacity": 18568,
+    "year_opened": 1988,
+    "history": "Sede del AC Monza, actualmente en proceso de mejora de instalaciones.",
+    "current_team": "AC Monza",
+    "teams": [
+      { "name": "AC Monza", "country": "Italia", "years_at_stadium": "1988–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stadio Giuseppe Sinigaglia",
+    "city": "Como",
+    "country": "Italia",
+    "latitude": 45.8034,
+    "longitude": 9.0787,
+    "capacity": 13602,
+    "year_opened": 1927,
+    "history": "Sede del Como 1907, con vistas al Lago de Como. Uno de los estadios más pintorescos de Italia.",
+    "current_team": "Como 1907",
+    "teams": [
+      { "name": "Como 1907", "country": "Italia", "years_at_stadium": "1927–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stadio Via del Mare",
+    "city": "Lecce",
+    "country": "Italia",
+    "latitude": 40.3597,
+    "longitude": 18.1700,
+    "capacity": 33876,
+    "year_opened": 1966,
+    "history": "Sede del US Lecce, en el corazón del Salento en el sur de Italia.",
+    "current_team": "US Lecce",
+    "teams": [
+      { "name": "US Lecce", "country": "Italia", "years_at_stadium": "1966–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estadio Ennio Tardini",
+    "city": "Parma",
+    "country": "Italia",
+    "latitude": 44.7992,
+    "longitude": 10.3367,
+    "capacity": 27906,
+    "year_opened": 1923,
+    "history": "Sede del Parma Calcio 1913. Escenario de los éxitos europeos del Parma en los años 90.",
+    "current_team": "Parma Calcio 1913",
+    "teams": [
+      { "name": "Parma Calcio 1913", "country": "Italia", "years_at_stadium": "1923–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Red Bull Arena Leipzig",
+    "city": "Leipzig",
+    "country": "Alemania",
+    "latitude": 51.3467,
+    "longitude": 12.3483,
+    "capacity": 47069,
+    "year_opened": 2004,
+    "history": "Sede del RB Leipzig, construido sobre el solar del antiguo Estadio Central de Leipzig.",
+    "current_team": "RB Leipzig",
+    "teams": [
+      { "name": "RB Leipzig", "country": "Alemania", "years_at_stadium": "2010–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "BayArena",
+    "city": "Leverkusen",
+    "country": "Alemania",
+    "latitude": 51.0383,
+    "longitude": 7.0022,
+    "capacity": 30210,
+    "year_opened": 1958,
+    "history": "Sede del Bayer 04 Leverkusen. Escenario del histórico título sin derrota de 2023/24.",
+    "current_team": "Bayer 04 Leverkusen",
+    "teams": [
+      { "name": "Bayer 04 Leverkusen", "country": "Alemania", "years_at_stadium": "1958–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Deutsche Bank Park",
+    "city": "Fráncfort del Meno",
+    "country": "Alemania",
+    "latitude": 50.0686,
+    "longitude": 8.6453,
+    "capacity": 51500,
+    "year_opened": 1925,
+    "history": "Sede del Eintracht Frankfurt. Sede de finales de Copa del Mundo (2006) y varios partidos históricos.",
+    "current_team": "Eintracht Frankfurt",
+    "teams": [
+      { "name": "Eintracht Frankfurt", "country": "Alemania", "years_at_stadium": "1925–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Volkswagen Arena",
+    "city": "Wolfsburg",
+    "country": "Alemania",
+    "latitude": 52.4344,
+    "longitude": 10.8034,
+    "capacity": 30000,
+    "year_opened": 2002,
+    "history": "Sede del VfL Wolfsburg, construido y propiedad del fabricante de automóviles Volkswagen.",
+    "current_team": "VfL Wolfsburg",
+    "teams": [
+      { "name": "VfL Wolfsburg", "country": "Alemania", "years_at_stadium": "2002–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "MHPArena",
+    "city": "Stuttgart",
+    "country": "Alemania",
+    "latitude": 48.7924,
+    "longitude": 9.2325,
+    "capacity": 60449,
+    "year_opened": 1933,
+    "history": "Sede del VfB Stuttgart. Fue sede de la Copa del Mundo de 2006 y de la Eurocopa de 1988.",
+    "current_team": "VfB Stuttgart",
+    "teams": [
+      { "name": "VfB Stuttgart", "country": "Alemania", "years_at_stadium": "1933–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Europa-Park Stadion",
+    "city": "Friburgo de Brisgovia",
+    "country": "Alemania",
+    "latitude": 48.0238,
+    "longitude": 7.8942,
+    "capacity": 34700,
+    "year_opened": 2021,
+    "history": "El estadio más nuevo de la Bundesliga, inaugurado en 2021. Sede del SC Freiburg.",
+    "current_team": "SC Freiburg",
+    "teams": [
+      { "name": "SC Freiburg", "country": "Alemania", "years_at_stadium": "2021–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stadion An der Alten Försterei",
+    "city": "Berlín",
+    "country": "Alemania",
+    "latitude": 52.4572,
+    "longitude": 13.5688,
+    "capacity": 22012,
+    "year_opened": 1920,
+    "history": "Sede del 1. FC Union Berlin, famoso por su ambiente de comunidad y su afición apasionada.",
+    "current_team": "1. FC Union Berlin",
+    "teams": [
+      { "name": "1. FC Union Berlin", "country": "Alemania", "years_at_stadium": "1920–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "wohninvest Weserstadion",
+    "city": "Bremen",
+    "country": "Alemania",
+    "latitude": 53.0667,
+    "longitude": 8.8378,
+    "capacity": 42100,
+    "year_opened": 1909,
+    "history": "Sede del Werder Bremen, a orillas del río Weser. Uno de los estadios más emblemáticos de Alemania.",
+    "current_team": "Werder Bremen",
+    "teams": [
+      { "name": "Werder Bremen", "country": "Alemania", "years_at_stadium": "1909–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "MEWA Arena",
+    "city": "Maguncia",
+    "country": "Alemania",
+    "latitude": 49.9843,
+    "longitude": 8.2241,
+    "capacity": 34000,
+    "year_opened": 2011,
+    "history": "Sede del 1. FSV Mainz 05, inaugurado en 2011. Anteriormente conocido como Opel Arena.",
+    "current_team": "1. FSV Mainz 05",
+    "teams": [
+      { "name": "1. FSV Mainz 05", "country": "Alemania", "years_at_stadium": "2011–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "WWK Arena",
+    "city": "Augsburgo",
+    "country": "Alemania",
+    "latitude": 48.3235,
+    "longitude": 10.8856,
+    "capacity": 30660,
+    "year_opened": 2009,
+    "history": "Sede del FC Augsburg, inaugurado en 2009 con diseño de cuña característica.",
+    "current_team": "FC Augsburg",
+    "teams": [
+      { "name": "FC Augsburg", "country": "Alemania", "years_at_stadium": "2009–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "PreZero Arena",
+    "city": "Sinsheim",
+    "country": "Alemania",
+    "latitude": 49.2386,
+    "longitude": 8.8892,
+    "capacity": 30150,
+    "year_opened": 2009,
+    "history": "Sede del TSG 1899 Hoffenheim, construido con financiación del mecenas Dietmar Hopp.",
+    "current_team": "TSG 1899 Hoffenheim",
+    "teams": [
+      { "name": "TSG 1899 Hoffenheim", "country": "Alemania", "years_at_stadium": "2009–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Borussia-Park",
+    "city": "Mönchengladbach",
+    "country": "Alemania",
+    "latitude": 51.1742,
+    "longitude": 6.3851,
+    "capacity": 54057,
+    "year_opened": 2004,
+    "history": "Sede del Borussia Mönchengladbach, inaugurado en 2004. Uno de los estadios más modernos de Alemania.",
+    "current_team": "Borussia Mönchengladbach",
+    "teams": [
+      { "name": "Borussia Mönchengladbach", "country": "Alemania", "years_at_stadium": "2004–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Vonovia Ruhrstadion",
+    "city": "Bochum",
+    "country": "Alemania",
+    "latitude": 51.4894,
+    "longitude": 7.2252,
+    "capacity": 27599,
+    "year_opened": 1979,
+    "history": "Sede del VfL Bochum. Estadio de tradición en el corazón del Ruhr.",
+    "current_team": "VfL Bochum",
+    "teams": [
+      { "name": "VfL Bochum", "country": "Alemania", "years_at_stadium": "1979–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Holstein-Stadion",
+    "city": "Kiel",
+    "country": "Alemania",
+    "latitude": 54.3592,
+    "longitude": 10.1280,
+    "capacity": 15034,
+    "year_opened": 1911,
+    "history": "Sede del Holstein Kiel, el estadio más pequeño de la Bundesliga en la temporada 2024/25.",
+    "current_team": "Holstein Kiel",
+    "teams": [
+      { "name": "Holstein Kiel", "country": "Alemania", "years_at_stadium": "1911–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Voith-Arena",
+    "city": "Heidenheim",
+    "country": "Alemania",
+    "latitude": 48.6802,
+    "longitude": 10.1547,
+    "capacity": 15000,
+    "year_opened": 1972,
+    "history": "Sede del 1. FC Heidenheim, situado en una colina con vistas al castillo de Hellenstein.",
+    "current_team": "1. FC Heidenheim",
+    "teams": [
+      { "name": "1. FC Heidenheim", "country": "Alemania", "years_at_stadium": "1972–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Millerntor-Stadion",
+    "city": "Hamburgo",
+    "country": "Alemania",
+    "latitude": 53.5548,
+    "longitude": 9.9681,
+    "capacity": 29546,
+    "year_opened": 1963,
+    "history": "Sede del FC St. Pauli, famoso por su cultura alternativa y afición comprometida políticamente.",
+    "current_team": "FC St. Pauli",
+    "teams": [
+      { "name": "FC St. Pauli", "country": "Alemania", "years_at_stadium": "1963–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stade Louis II",
+    "city": "Mónaco",
+    "country": "Francia",
+    "latitude": 43.7277,
+    "longitude": 7.4150,
+    "capacity": 18523,
+    "year_opened": 1985,
+    "history": "Sede del AS Monaco en el Principado de Mónaco, construido parcialmente sobre el mar.",
+    "current_team": "AS Monaco",
+    "teams": [
+      { "name": "AS Monaco", "country": "Francia", "years_at_stadium": "1985–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stade Vélodrome",
+    "city": "Marsella",
+    "country": "Francia",
+    "latitude": 43.2698,
+    "longitude": 5.3953,
+    "capacity": 67394,
+    "year_opened": 1937,
+    "history": "El estadio más grande de Francia. Sede del Olympique de Marseille y del Mundial de 1998.",
+    "current_team": "Olympique de Marseille",
+    "teams": [
+      { "name": "Olympique de Marseille", "country": "Francia", "years_at_stadium": "1937–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Groupama Stadium",
+    "city": "Lyon",
+    "country": "Francia",
+    "latitude": 45.7653,
+    "longitude": 4.9825,
+    "capacity": 59186,
+    "year_opened": 2016,
+    "history": "Inaugurado en 2016, es uno de los estadios más modernos de Europa. Sede del Olympique Lyonnais.",
+    "current_team": "Olympique Lyonnais",
+    "teams": [
+      { "name": "Olympique Lyonnais", "country": "Francia", "years_at_stadium": "2016–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stade Pierre-Mauroy",
+    "city": "Villeneuve-d'Ascq",
+    "country": "Francia",
+    "latitude": 50.6116,
+    "longitude": 3.1302,
+    "capacity": 49712,
+    "year_opened": 2012,
+    "history": "Sede del LOSC Lille, inaugurado en 2012. Con techo retráctil para eventos cubiertos.",
+    "current_team": "LOSC Lille",
+    "teams": [
+      { "name": "LOSC Lille", "country": "Francia", "years_at_stadium": "2012–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Roazhon Park",
+    "city": "Rennes",
+    "country": "Francia",
+    "latitude": 48.1072,
+    "longitude": -1.7203,
+    "capacity": 29778,
+    "year_opened": 1912,
+    "history": "Sede del Stade Rennais FC, remozado en 2004. Roazhon es el nombre bretón de Rennes.",
+    "current_team": "Stade Rennais FC",
+    "teams": [
+      { "name": "Stade Rennais FC", "country": "Francia", "years_at_stadium": "1912–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Allianz Riviera",
+    "city": "Niza",
+    "country": "Francia",
+    "latitude": 43.7050,
+    "longitude": 7.1920,
+    "capacity": 35624,
+    "year_opened": 2013,
+    "history": "Sede del OGC Nice, inaugurado en 2013. Con vistas a los Alpes y al Mar Mediterráneo.",
+    "current_team": "OGC Nice",
+    "teams": [
+      { "name": "OGC Nice", "country": "Francia", "years_at_stadium": "2013–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stade Bollaert-Delelis",
+    "city": "Lens",
+    "country": "Francia",
+    "latitude": 50.4330,
+    "longitude": 2.8148,
+    "capacity": 38223,
+    "year_opened": 1934,
+    "history": "Sede del RC Lens, famoso por su atmósfera minera y su 'sang et or' (sangre y oro).",
+    "current_team": "RC Lens",
+    "teams": [
+      { "name": "RC Lens", "country": "Francia", "years_at_stadium": "1934–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stade de la Meinau",
+    "city": "Estrasburgo",
+    "country": "Francia",
+    "latitude": 48.5563,
+    "longitude": 7.7549,
+    "capacity": 26109,
+    "year_opened": 1914,
+    "history": "Sede del Racing Club de Strasbourg, con historia centenaria en la ciudad fronteriza.",
+    "current_team": "Racing Club de Strasbourg Alsace",
+    "teams": [
+      { "name": "Racing Club de Strasbourg Alsace", "country": "Francia", "years_at_stadium": "1914–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stade de la Beaujoire",
+    "city": "Nantes",
+    "country": "Francia",
+    "latitude": 47.2559,
+    "longitude": -1.5242,
+    "capacity": 37473,
+    "year_opened": 1984,
+    "history": "Sede del FC Nantes, construido para la Eurocopa de 1984.",
+    "current_team": "FC Nantes",
+    "teams": [
+      { "name": "FC Nantes", "country": "Francia", "years_at_stadium": "1984–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stade Auguste Delaune",
+    "city": "Reims",
+    "country": "Francia",
+    "latitude": 49.2506,
+    "longitude": 4.0403,
+    "capacity": 21684,
+    "year_opened": 1935,
+    "history": "Sede del Stade de Reims, renombrado en honor al sindicalista Auguste Delaune.",
+    "current_team": "Stade de Reims",
+    "teams": [
+      { "name": "Stade de Reims", "country": "Francia", "years_at_stadium": "1935–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stade Francis-Le Blé",
+    "city": "Brest",
+    "country": "Francia",
+    "latitude": 48.4063,
+    "longitude": -4.4625,
+    "capacity": 15097,
+    "year_opened": 1922,
+    "history": "Sede del Stade Brestois 29. Escenario de su sorprendente participación en la Champions League 2024/25.",
+    "current_team": "Stade Brestois 29",
+    "teams": [
+      { "name": "Stade Brestois 29", "country": "Francia", "years_at_stadium": "1922–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stadium de Toulouse",
+    "city": "Toulouse",
+    "country": "Francia",
+    "latitude": 43.5831,
+    "longitude": 1.4344,
+    "capacity": 33150,
+    "year_opened": 2004,
+    "history": "Sede del Toulouse FC, inaugurado para la Copa del Mundo de Francia 1998.",
+    "current_team": "Toulouse FC",
+    "teams": [
+      { "name": "Toulouse FC", "country": "Francia", "years_at_stadium": "2004–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stade de la Mosson",
+    "city": "Montpellier",
+    "country": "Francia",
+    "latitude": 43.6148,
+    "longitude": 3.8128,
+    "capacity": 32900,
+    "year_opened": 1972,
+    "history": "Sede del Montpellier HSC, inaugurado en 1972 al oeste de la ciudad.",
+    "current_team": "Montpellier HSC",
+    "teams": [
+      { "name": "Montpellier HSC", "country": "Francia", "years_at_stadium": "1972–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stade Océane",
+    "city": "Le Havre",
+    "country": "Francia",
+    "latitude": 49.4912,
+    "longitude": 0.1024,
+    "capacity": 25178,
+    "year_opened": 2012,
+    "history": "Sede del Havre AC, inaugurado en 2012 junto al puerto de Le Havre.",
+    "current_team": "Havre AC",
+    "teams": [
+      { "name": "Havre AC", "country": "Francia", "years_at_stadium": "2012–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stade Geoffroy-Guichard",
+    "city": "Saint-Étienne",
+    "country": "Francia",
+    "latitude": 45.4603,
+    "longitude": 4.3917,
+    "capacity": 42000,
+    "year_opened": 1931,
+    "history": "El 'Chaudron' (caldero), sede del AS Saint-Étienne. Uno de los estadios con más ambiente de Francia.",
+    "current_team": "AS Saint-Étienne",
+    "teams": [
+      { "name": "AS Saint-Étienne", "country": "Francia", "years_at_stadium": "1931–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stade Raymond Kopa",
+    "city": "Angers",
+    "country": "Francia",
+    "latitude": 47.4682,
+    "longitude": -0.5522,
+    "capacity": 18785,
+    "year_opened": 1912,
+    "history": "Sede del Angers SCO, renombrado en honor al legendario Raymond Kopa.",
+    "current_team": "Angers SCO",
+    "teams": [
+      { "name": "Angers SCO", "country": "Francia", "years_at_stadium": "1912–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Stade de l'Abbé-Deschamps",
+    "city": "Auxerre",
+    "country": "Francia",
+    "latitude": 47.7996,
+    "longitude": 3.5713,
+    "capacity": 23467,
+    "year_opened": 1918,
+    "history": "Sede del AJ Auxerre, uno de los estadios con más historia del fútbol francés.",
+    "current_team": "AJ Auxerre",
+    "teams": [
+      { "name": "AJ Auxerre", "country": "Francia", "years_at_stadium": "1918–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio do Dragão",
+    "city": "Oporto",
+    "country": "Portugal",
+    "latitude": 41.1614,
+    "longitude": -8.5831,
+    "capacity": 50033,
+    "year_opened": 2003,
+    "history": "Sede del FC Porto, inaugurado para la Eurocopa 2004. Escenario de la Champions League de 2021.",
+    "current_team": "FC Porto",
+    "teams": [
+      { "name": "FC Porto", "country": "Portugal", "years_at_stadium": "2003–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio José Alvalade",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "latitude": 38.7614,
+    "longitude": -9.1611,
+    "capacity": 50044,
+    "year_opened": 2003,
+    "history": "Sede del Sporting CP, inaugurado para la Eurocopa 2004. Una de las mejores instalaciones de Portugal.",
+    "current_team": "Sporting CP",
+    "teams": [
+      { "name": "Sporting CP", "country": "Portugal", "years_at_stadium": "2003–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio Municipal de Braga",
+    "city": "Braga",
+    "country": "Portugal",
+    "latitude": 41.5678,
+    "longitude": -8.4025,
+    "capacity": 30154,
+    "year_opened": 2003,
+    "history": "Diseñado por Eduardo Souto de Moura, tallado en la roca de una cantera. Único en el mundo.",
+    "current_team": "SC Braga",
+    "teams": [
+      { "name": "SC Braga", "country": "Portugal", "years_at_stadium": "2003–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio Dom Afonso Henriques",
+    "city": "Guimarães",
+    "country": "Portugal",
+    "latitude": 41.4481,
+    "longitude": -8.3003,
+    "capacity": 30029,
+    "year_opened": 1965,
+    "history": "Sede del Vitória SC de Guimarães, renovado para la Eurocopa 2004.",
+    "current_team": "Vitória SC",
+    "teams": [
+      { "name": "Vitória SC", "country": "Portugal", "years_at_stadium": "1965–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio Municipal de Famalicão",
+    "city": "Vila Nova de Famalicão",
+    "country": "Portugal",
+    "latitude": 41.4197,
+    "longitude": -8.5241,
+    "capacity": 6000,
+    "year_opened": 2015,
+    "history": "Sede del FC Famalicão, modesto estadio del norte de Portugal.",
+    "current_team": "FC Famalicão",
+    "teams": [
+      { "name": "FC Famalicão", "country": "Portugal", "years_at_stadium": "2015–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio Cidade de Barcelos",
+    "city": "Barcelos",
+    "country": "Portugal",
+    "latitude": 41.5322,
+    "longitude": -8.6197,
+    "capacity": 12504,
+    "year_opened": 2003,
+    "history": "Sede del Gil Vicente FC, inaugurado para la Eurocopa 2004.",
+    "current_team": "Gil Vicente FC",
+    "teams": [
+      { "name": "Gil Vicente FC", "country": "Portugal", "years_at_stadium": "2003–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio Pina Manique",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "latitude": 38.7283,
+    "longitude": -9.1889,
+    "capacity": 7500,
+    "year_opened": 1956,
+    "history": "Sede del Casa Pia AC, situado en el parque de Monsanto, en Lisboa.",
+    "current_team": "Casa Pia AC",
+    "teams": [
+      { "name": "Casa Pia AC", "country": "Portugal", "years_at_stadium": "1956–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Parque de Jogos Comendador Joaquim de Almeida Freitas",
+    "city": "Moreira de Cónegos",
+    "country": "Portugal",
+    "latitude": 41.3528,
+    "longitude": -8.3492,
+    "capacity": 6400,
+    "year_opened": 1994,
+    "history": "Sede del Moreirense FC en la localidad de Moreira de Cónegos.",
+    "current_team": "Moreirense FC",
+    "teams": [
+      { "name": "Moreirense FC", "country": "Portugal", "years_at_stadium": "1994–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio José Gomes",
+    "city": "Amadora",
+    "country": "Portugal",
+    "latitude": 38.7569,
+    "longitude": -9.2267,
+    "capacity": 9000,
+    "year_opened": 1952,
+    "history": "Sede del CF Estrela da Amadora, en la ciudad de Amadora junto a Lisboa.",
+    "current_team": "CF Estrela da Amadora",
+    "teams": [
+      { "name": "CF Estrela da Amadora", "country": "Portugal", "years_at_stadium": "1952–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio António Coimbra da Mota",
+    "city": "Estoril",
+    "country": "Portugal",
+    "latitude": 38.7083,
+    "longitude": -9.3994,
+    "capacity": 7500,
+    "year_opened": 1939,
+    "history": "Sede del GD Estoril-Praia, en la costa del Estoril.",
+    "current_team": "GD Estoril-Praia",
+    "teams": [
+      { "name": "GD Estoril-Praia", "country": "Portugal", "years_at_stadium": "1939–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio Municipal de Arouca",
+    "city": "Arouca",
+    "country": "Portugal",
+    "latitude": 40.9274,
+    "longitude": -8.2500,
+    "capacity": 4000,
+    "year_opened": 2009,
+    "history": "Sede del FC Arouca, pequeño estadio en la Serra da Arada.",
+    "current_team": "FC Arouca",
+    "teams": [
+      { "name": "FC Arouca", "country": "Portugal", "years_at_stadium": "2009–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio de São Luís",
+    "city": "Faro",
+    "country": "Portugal",
+    "latitude": 37.0089,
+    "longitude": -7.9258,
+    "capacity": 12000,
+    "year_opened": 2003,
+    "history": "Sede del SC Farense, en la ciudad de Faro, capital del Algarve.",
+    "current_team": "SC Farense",
+    "teams": [
+      { "name": "SC Farense", "country": "Portugal", "years_at_stadium": "2003–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio dos Arcos",
+    "city": "Vila do Conde",
+    "country": "Portugal",
+    "latitude": 41.3540,
+    "longitude": -8.7450,
+    "capacity": 9000,
+    "year_opened": 1988,
+    "history": "Sede del Rio Ave FC en la desembocadura del río Ave.",
+    "current_team": "Rio Ave FC",
+    "teams": [
+      { "name": "Rio Ave FC", "country": "Portugal", "years_at_stadium": "1988–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio do Vizela",
+    "city": "Vizela",
+    "country": "Portugal",
+    "latitude": 41.3903,
+    "longitude": -8.3003,
+    "capacity": 6000,
+    "year_opened": 2003,
+    "history": "Sede del FC Vizela, en el municipio del mismo nombre al norte de Portugal.",
+    "current_team": "FC Vizela",
+    "teams": [
+      { "name": "FC Vizela", "country": "Portugal", "years_at_stadium": "2003–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio de São Miguel",
+    "city": "Ponta Delgada",
+    "country": "Portugal",
+    "latitude": 37.7497,
+    "longitude": -25.6649,
+    "capacity": 13200,
+    "year_opened": 1944,
+    "history": "Sede del CD Santa Clara, en la isla de São Miguel, Azores.",
+    "current_team": "CD Santa Clara",
+    "teams": [
+      { "name": "CD Santa Clara", "country": "Portugal", "years_at_stadium": "1944–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio da Madeira",
+    "city": "Funchal",
+    "country": "Portugal",
+    "latitude": 32.6669,
+    "longitude": -16.9183,
+    "capacity": 8500,
+    "year_opened": 1986,
+    "history": "Sede del CD Nacional, en la isla de Madeira.",
+    "current_team": "CD Nacional",
+    "teams": [
+      { "name": "CD Nacional", "country": "Portugal", "years_at_stadium": "1986–presente", "notes": null }
+    ]
+  },
+  {
+    "name": "Estádio do Clube Desportivo das Aves",
+    "city": "Vila das Aves",
+    "country": "Portugal",
+    "latitude": 41.3764,
+    "longitude": -8.3608,
+    "capacity": 9000,
+    "year_opened": 2001,
+    "history": "Sede del AVS Futebol SAD (ex-CD Aves), en Vila das Aves, Santo Tirso.",
+    "current_team": "AVS Futebol SAD",
+    "teams": [
+      { "name": "AVS Futebol SAD", "country": "Portugal", "years_at_stadium": "2001–presente", "notes": null }
     ]
   }
 ]
